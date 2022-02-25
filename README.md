@@ -1,4 +1,4 @@
-# BBC good foor scraper
+# BBC good food scraper
 
 -Scrapy crawl spides for getting out either all of the everyday categories
 or every website on the recipe
